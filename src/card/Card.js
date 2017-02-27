@@ -30,7 +30,7 @@ class Card extends React.Component {
         <Gmaps
 
          width={'100%'}
-         height={'20vh'}
+         height={'35vh'}
          lat={this.props.lat}
          lng={this.props.lng}
          zoom={16}
